@@ -2,7 +2,7 @@
 
 A 15-story financial learning app built with JavaScript, HTML, and CSS. It combines story-based explanations and quizzes with keyboard navigation, persistent reading state, and responsive media.
 
-**[Open the live app](https://xuxu8421.github.io/financial-fables/)** · [Project case study](https://sizhang-xu-portfolio.windy-sun-8382.chatgpt.site/reader.html)
+**[Open the live app](https://xuxu8421.github.io/financial-fables/)** · [Project case study](https://xuxu8421.github.io/reader.html)
 
 ## Engineering highlights
 
